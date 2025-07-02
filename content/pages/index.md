@@ -33,4 +33,6 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |
+      Coming Soon!
 ---
