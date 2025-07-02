@@ -33,8 +33,7 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    text: >+
-      <div style="text-align: center">Something is coming soon, stay
-      tuned.</div>
+    text: |+
+      <div style="text-align: center">studio\@gegen-gegen.com</div>
 
 ---
