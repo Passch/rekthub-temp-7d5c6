@@ -33,4 +33,8 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: >+
+      <div style="text-align: left">Contact us at
+      <studio@gegen-gegen.com></studio@gegen-gegen.com></div>
+
 ---
