@@ -33,8 +33,8 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    text: |
-      <div style="text-align: center">**</div>
+    text: >+
+      <div style="text-align: center">Something is coming soon, stay
+      tuned.</div>
 
-      Something is coming soon, stay tuned.
 ---
