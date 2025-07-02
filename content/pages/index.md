@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: ''
+    title: RektHub™
     subtitle: RektHub™
     styles:
       self:
