@@ -34,6 +34,6 @@ sections:
     type: HeroSection
     actions: []
     text: |+
-      ###### Coming Soon!
+      <div style="text-align: center">###### *Coming Soon!*</div>
 
 ---
