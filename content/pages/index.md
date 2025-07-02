@@ -34,6 +34,6 @@ sections:
     type: HeroSection
     actions: []
     text: |+
-      <div style="text-align: center">studio\@gegen-gegen.com</div>
+      <div style="text-align: left"><studio@gegen-gegen.com></div>
 
 ---
